@@ -1,5 +1,7 @@
 # MarkItDown GUI — v1.0
 
+![MarkItDown GUI screenshot](assets/MarkItDownGUI_Preview.png)
+
 A local **native desktop app** to convert files to clean Markdown using Microsoft's [MarkItDown](https://github.com/microsoft/markitdown), plus **offline OCR** for images. Dark UI.
 
 - **UI:** native Qt (PySide6) window — drag-and-drop one or many files, checkbox selection, live Markdown preview, native Save dialogs.
@@ -91,3 +93,7 @@ This GUI is a native wrapper around two open-source projects:
 
 - **[MarkItDown](https://github.com/microsoft/markitdown)** by Microsoft (MIT License) — the document conversion engine.
 - **[RapidOCR](https://github.com/RapidAI/RapidOCR)** (Apache-2.0 License) — offline OCR for images.
+
+## 📄 License
+
+MIT — see [LICENSE](LICENSE).
