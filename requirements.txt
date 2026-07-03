@@ -1,0 +1,6 @@
+# Runtime + build dependencies (Python 3.10+).
+markitdown[pdf,docx,pptx,xlsx,xls]>=0.1.6   # document conversion
+PySide6>=6.6                                 # native GUI
+rapidocr-onnxruntime                          # image OCR (offline, reuses onnxruntime)
+
+pyinstaller>=6.0                              # build the exe

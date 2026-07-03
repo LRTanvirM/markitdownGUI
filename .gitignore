@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.claude/
+
+# Build output (re-created by build.bat)
+build/
+dist/
+*.spec.bak
+# make_icon.py preview, not needed for the build
+icon_preview.png
